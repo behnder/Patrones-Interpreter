@@ -1,0 +1,14 @@
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\bin\Debug\netcoreapp3.1\Patrones-Interpreter.exe
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\bin\Debug\netcoreapp3.1\Patrones-Interpreter.deps.json
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\bin\Debug\netcoreapp3.1\Patrones-Interpreter.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\bin\Debug\netcoreapp3.1\Patrones-Interpreter.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\bin\Debug\netcoreapp3.1\Patrones-Interpreter.dll
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\bin\Debug\netcoreapp3.1\Patrones-Interpreter.pdb
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\obj\Debug\netcoreapp3.1\Patrones-Interpreter.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\obj\Debug\netcoreapp3.1\Patrones-Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\obj\Debug\netcoreapp3.1\Patrones-Interpreter.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\obj\Debug\netcoreapp3.1\Patrones-Interpreter.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\obj\Debug\netcoreapp3.1\Patrones-Interpreter.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\obj\Debug\netcoreapp3.1\Patrones-Interpreter.dll
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\obj\Debug\netcoreapp3.1\Patrones-Interpreter.pdb
+E:\unity\quark\Patrones\Patrones-Interpreter\Patrones-Interpreter\obj\Debug\netcoreapp3.1\Patrones-Interpreter.genruntimeconfig.cache
